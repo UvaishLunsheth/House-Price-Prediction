@@ -38,7 +38,7 @@ california-house-price-prediction/
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/UvaishLunsheth/california-house-price-prediction.git
+git clone https://github.com/UvaishLunsheth/House-Price-Prediction.git
 cd california-house-price-prediction
 pip install -r requirements.txt
 ```
