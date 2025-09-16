@@ -38,7 +38,7 @@ california-house-price-prediction/
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/<your-username>/california-house-price-prediction.git
+git clone https://github.com/UvaishLunsheth/california-house-price-prediction.git
 cd california-house-price-prediction
 pip install -r requirements.txt
 ```
@@ -120,6 +120,10 @@ Contributions, issues, and feature requests are welcome!
 Feel free to fork this repo and submit a pull request.
 
 ---
+
+⚠️ Note: The trained Random Forest model (.pkl) is too large to upload to GitHub.  
+If you want to use it, please run the notebook to retrain the model, or replace it with your own trained model.
+
 
 ## 📜 License
 
